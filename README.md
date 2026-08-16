@@ -5,4 +5,12 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/nitinkk0312-jpg/Coding-Questions/tree/master/0009-palindrome-number) |
+## Array
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/nitinkk0312-jpg/Coding-Questions/tree/master/0283-move-zeroes) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/nitinkk0312-jpg/Coding-Questions/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
