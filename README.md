@@ -8,12 +8,14 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/nitinkk0312-jpg/Coding-Questions/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/nitinkk0312-jpg/Coding-Questions/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nitinkk0312-jpg/Coding-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/nitinkk0312-jpg/Coding-Questions/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/nitinkk0312-jpg/Coding-Questions/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/nitinkk0312-jpg/Coding-Questions/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nitinkk0312-jpg/Coding-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/nitinkk0312-jpg/Coding-Questions/tree/master/0283-move-zeroes) |
@@ -33,4 +35,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/nitinkk0312-jpg/Coding-Questions/tree/master/0075-sort-colors) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/nitinkk0312-jpg/Coding-Questions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
