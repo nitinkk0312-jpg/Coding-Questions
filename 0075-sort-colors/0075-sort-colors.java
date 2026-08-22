@@ -3,9 +3,7 @@ class Solution {
         int n = nums.length;
         for (int i = 0; i < n; i++) {
             for (int j = n - 1; j >= i + 1; j--) {
-                if (i > j) {
-                    break;
-                }
+            
                 if (nums[i] > nums[j]) {
                     int temp = nums[i];
                     nums[i] = nums[j];
