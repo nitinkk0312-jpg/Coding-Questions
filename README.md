@@ -13,6 +13,7 @@
 | [0075-sort-colors](https://github.com/nitinkk0312-jpg/Coding-Questions/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nitinkk0312-jpg/Coding-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/nitinkk0312-jpg/Coding-Questions/tree/master/0283-move-zeroes) |
+| [1051-height-checker](https://github.com/nitinkk0312-jpg/Coding-Questions/tree/master/1051-height-checker) |
 ## Two Pointers
 |  |
 | ------- |
@@ -29,6 +30,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/nitinkk0312-jpg/Coding-Questions/tree/master/0075-sort-colors) |
+| [1051-height-checker](https://github.com/nitinkk0312-jpg/Coding-Questions/tree/master/1051-height-checker) |
 ## Quicksort
 |  |
 | ------- |
@@ -37,8 +39,13 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/nitinkk0312-jpg/Coding-Questions/tree/master/0075-sort-colors) |
+| [1051-height-checker](https://github.com/nitinkk0312-jpg/Coding-Questions/tree/master/1051-height-checker) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/nitinkk0312-jpg/Coding-Questions/tree/master/0011-container-with-most-water) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/nitinkk0312-jpg/Coding-Questions/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
