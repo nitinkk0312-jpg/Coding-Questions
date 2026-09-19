@@ -16,6 +16,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nitinkk0312-jpg/Coding-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/nitinkk0312-jpg/Coding-Questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/nitinkk0312-jpg/Coding-Questions/tree/master/0283-move-zeroes) |
+| [0540-single-element-in-a-sorted-array](https://github.com/nitinkk0312-jpg/Coding-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [1051-height-checker](https://github.com/nitinkk0312-jpg/Coding-Questions/tree/master/1051-height-checker) |
 ## Two Pointers
 |  |
@@ -31,6 +32,7 @@
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nitinkk0312-jpg/Coding-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/nitinkk0312-jpg/Coding-Questions/tree/master/0268-missing-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/nitinkk0312-jpg/Coding-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
